@@ -1,0 +1,3 @@
+Resource_Name,VMName,Location,VirtualNetworkName,Subnet,SecurityGrupName,publicAddressname,Ports
+HEUREUXGroup,Dev-1,West US,NET3,SubNet3,Team,PublicIP3,"3,389"
+HEUREUXGroup,Dev-2,West US,NET4,SubNet4,Team,PublicIP4,"3,389"
